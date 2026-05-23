@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff4500,100:ff6a00&height=250&section=header&text=Good%20code%20is%20its%20own%20best%20documentation.&fontSize=28&fontFamily=Courier+New&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=—%20Steve%20McConnell&descSize=18&descAlignY=60&descColor=ffccaa" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=HELLO+VISITOR+👋;I+AM+MUHAMMAD+SHAHARYAR+AULAKH" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=SALAM+SAHAB+👋;I+AM+MUHAMMAD+SHAHARYAR+AULAKH" />
   </a>
 
 </div>
@@ -15,35 +15,22 @@
   <img src="https://img.shields.io/github/stars/muhammadshaharyaraulakh?label=Stars&style=for-the-badge&color=ff4500&logo=reverbnation" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4500&icon_color=ff6a00&text_color=ffffff&hide_rank=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=default&hide_border=true&title_color=ff4500&icon_color=ff6a00&hide_rank=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4500&icon_color=ff6a00&hide_rank=true" alt="Shaharyar's Stats" />
-      </picture>
-    </td>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshaharyaraulakh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4500&icon_color=ff6a00&text_color=ffffff">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshaharyaraulakh&layout=compact&theme=default&hide_border=true&title_color=ff4500&icon_color=ff6a00">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshaharyaraulakh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4500&icon_color=ff6a00" alt="Top Languages" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4500&icon_color=ff6a00&text_color=ffffff&hide_rank=true&cache_seconds=1800" alt="Shaharyar's Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshaharyaraulakh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4500&text_color=ffffff&cache_seconds=1800" alt="Top Languages" />
+</p>
 
 <h3 align="center">Let's Connect</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mazenc" target="blank">
+  <a href="[https://www.linkedin.com/in/muhammadsheharyaraulakh/]" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff4500?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/923154550618" target="blank">
+  <a href="https://wa.me/923262133920" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-ff6a00?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:zaynch669@gmail.com">
+  <a href="mailto:muhammadsheharyaraulakh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff4500?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -59,10 +46,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%23ff4500" />
-  <img src="https://img.shields.io/badge/tailwindcss-%230d1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=ff4500" />
-  <img src="https://img.shields.io/badge/node.js-ff4500?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-ff6a00?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-ff4500?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-ff6a00?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-ff4500?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-ff6a00?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
