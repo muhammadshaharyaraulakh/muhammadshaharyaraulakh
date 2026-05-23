@@ -24,12 +24,14 @@
 <h3 align="center">Let's Connect</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/muhammadsheharyaraulakh/]" target="blank">
+  <a href="https://www.linkedin.com/in/muhammadsheharyaraulakh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff4500?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/923262133920" target="blank">
+
+  <a href="https://wa.me/923262133920" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-ff6a00?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
   <a href="mailto:muhammadsheharyaraulakh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff4500?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
