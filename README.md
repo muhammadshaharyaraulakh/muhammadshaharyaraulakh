@@ -11,19 +11,14 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/muhammadshaharyaraulakh?label=Followers&style=for-the-badge&color=ff4500&logo=github" />
-  <img src="https://img.shields.io/github/stars/muhammadshaharyaraulakh?label=Stars&style=for-the-badge&color=ff4500&logo=reverbnation" />
-</p>
-
-<p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshaharyaraulakh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammadshaharyaraulakh&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
