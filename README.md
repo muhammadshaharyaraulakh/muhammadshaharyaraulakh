@@ -10,27 +10,23 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=radical&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshaharyaraulakh&layout=compact&theme=radical&hide_border=true"
-  alt="Top Languages"
-/>
-
-</td>
-</tr>
-</table>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshaharyaraulakh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  />
+</p>
+<p aligin="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshaharyaraulakh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 <h3 align="center">Let's Connect</h3>
 
