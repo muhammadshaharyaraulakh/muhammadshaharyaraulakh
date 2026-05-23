@@ -16,9 +16,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4500&icon_color=ff6a00&text_color=ffffff&hide_rank=true&cache_seconds=1800" alt="Shaharyar's Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshaharyaraulakh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4500&text_color=ffffff&cache_seconds=1800" alt="Top Languages" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshaharyaraulakh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <h3 align="center">Let's Connect</h3>
