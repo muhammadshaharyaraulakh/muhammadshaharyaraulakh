@@ -11,12 +11,12 @@
 <br/>
 
 <table align="center">
-<tr border="none">
+<tr>
 <td width="50%" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=tokyonight&hide_border=true"
-  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&theme=radical&hide_border=true"
+  alt="GitHub Stats"
 />
 
 </td>
@@ -24,8 +24,8 @@
 <td width="50%" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshaharyaraulakh&layout=compact&theme=tokyonight&hide_border=true"
-  width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshaharyaraulakh&layout=compact&theme=radical&hide_border=true"
+  alt="Top Languages"
 />
 
 </td>
