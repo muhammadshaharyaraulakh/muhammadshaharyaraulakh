@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff4500,100:ff6a00&height=250&section=header&text=Good%20code%20is%20its%20own%20best%20documentation.&fontSize=28&fontFamily=Courier+New&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=—%20Steve%20McConnell&descSize=18&descAlignY=60&descColor=ffccaa" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff6a00,100:ff3c00&height=260&section=header&text=Clean%20code%20speaks%20louder%20than%20comments.&fontSize=28&fontFamily=Courier+New&fontColor=ffffff&fontAlignY=38&desc=Muhammad%20Shaharyar%20-%20Laravel%20Developer&descSize=18&descAlignY=62&descColor=ffd6b3" />
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=SALAM+SAHAB+👋;I+AM+MUHAMMAD+SHAHARYAR+AULAKH" />
 </a>
