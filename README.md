@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:ff6a00,100:ff3c00&height=260&section=header&text=Clean%20code%20speaks%20louder%20than%20comments.&fontSize=28&fontFamily=Courier+New&fontColor=ffffff&fontAlignY=38&desc=Muhammad%20Sheharyar%20-%20Laravel%20Developer&descSize=18&descAlignY=62&descColor=ffd6b3" />
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=SALAM+SAHAB+👋;I+AM+MUHAMMAD+SHAHARYAR+AULAKH" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=SALAM+SAHAB;I+AM+MUHAMMAD+SHAHARYAR+AULAKH" />
 </a>
 
 </div>
