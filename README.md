@@ -1,74 +1,192 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=30&pause=1000&color=4AF626&center=true&vCenter=true&width=640&lines=HELLO+VISITOR+%F0%9F%91%8B;I+AM+MUHAMMAD+SHEHARYAR+AULAKH;LARAVEL+DEVELOPER;PHP+%7C+MySQL+%7C+REST+APIs" />
-</p>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&text=First%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&fontSize=24&fontColor=00FF41&fontAlign=50&fontAlignY=48&fontFamily=system-ui" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=muhammadshaharyaraulakh&theme=radical&timezone=Asia/Karachi&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=muhammadshaharyaraulakh&theme=default&timezone=Asia/Karachi&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=muhammadshaharyaraulakh&theme=tokyonight&timezone=Asia/Karachi&hide_border=true" alt="GitHub Streak" />
-  </picture>
-</p>
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=720&height=80&lines=I+am+Muhammad+Sheheryar;PHP+Laravel+Developer)](https://git.io/typing-svg)
 
-<h3 align="center">Tech Stack & Skills</h3>
+<!-- VISITOR + FOLLOW BADGES -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-4AF626?style=for-the-badge&logo=php&logoColor=black" />
-  <img src="https://img.shields.io/badge/Laravel-4AF626?style=for-the-badge&logo=laravel&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4AF626?style=for-the-badge&logo=mysql&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-4AF626?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-4AF626?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4AF626?style=for-the-badge&logo=tailwind-css&logoColor=black" />
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=muhammadshaharyaraulakh&color=00FF41&style=for-the-badge&label=VISITORS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/muhammadshaharyaraulakh?color=00FF41&label=FOLLOWERS&logo=github&logoColor=000000&style=for-the-badge)](https://github.com/muhammadshaharyaraulakh?tab=followers)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/muhammadshaharyaraulakh?color=00FF41&label=STARS&logo=github&logoColor=000000&style=for-the-badge)](https://github.com/muhammadshaharyaraulakh)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-4AF626?style=for-the-badge&logo=bootstrap&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-4AF626?style=for-the-badge&logo=fastapi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Composer-4AF626?style=for-the-badge&logo=composer&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-4AF626?style=for-the-badge&logo=git&logoColor=black" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadshaharyaraulakh/muhammadshaharyaraulakh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadshaharyaraulakh/muhammadshaharyaraulakh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhammadshaharyaraulakh/muhammadshaharyaraulakh/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<!-- ABOUT ME — image floated right, code block on left -->
+
+<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### `// whoami`
+
+```php
+<?php
+
+class MuhammadSheheryar extends Developer
+{
+    public string $name     = "Muhammad Sheheryar";
+    public string $location = "Pakistan 🇵🇰";
+    public string $role     = "PHP & Laravel Developer";
+
+    public array $stack = [
+        "Backend"  => ["PHP", "Laravel"],
+        "Frontend" => ["React", "Tailwind CSS", "JavaScript"],
+        "Database" => ["MySQL"],
+    ];
+
+    public string $currently = "Building scalable web applications";
+    public string $learning  = "React · Docker · System Design";
+
+    public string $motto =
+        "First, solve the problem. Then, write the code.";
+}
+```
+
+<br clear="right" />
 
 ---
 
-<h3 align="center">Let's Connect</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadsheharyaraulakh/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/923262133920" target="blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:muhammadsheharyaraulakh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## `// TECH STACK`
+
+**` Backend `**
+
+![PHP](https://img.shields.io/badge/PHP-00FF41?style=for-the-badge&logo=php&logoColor=000000)
+![Laravel](https://img.shields.io/badge/Laravel-00FF41?style=for-the-badge&logo=laravel&logoColor=000000)
+
+**` Frontend `**
+
+![React](https://img.shields.io/badge/React-00FF41?style=for-the-badge&logo=react&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-00FF41?style=for-the-badge&logo=tailwindcss&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-00FF41?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-00FF41?style=for-the-badge&logo=css3&logoColor=000000)
+
+**` Database `**
+
+![MySQL](https://img.shields.io/badge/MySQL-00FF41?style=for-the-badge&logo=mysql&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-00FF41?style=for-the-badge&logo=sqlite&logoColor=000000)
+
+**` Tools & Environment `**
+
+![Git](https://img.shields.io/badge/Git-00FF41?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-00FF41?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
+![Composer](https://img.shields.io/badge/Composer-00FF41?style=for-the-badge&logo=composer&logoColor=000000)
+![Postman](https://img.shields.io/badge/Postman-00FF41?style=for-the-badge&logo=postman&logoColor=000000)
+![Linux](https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=000000)
+![NPM](https://img.shields.io/badge/NPM-00FF41?style=for-the-badge&logo=npm&logoColor=000000)
+
+</div>
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshaharyaraulakh&theme=react-dark&bg_color=0d1117&color=4AF626&line=4AF626&point=ffffff&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshaharyaraulakh&theme=github&bg_color=ffffff&color=333333&line=4AF626&point=4AF626&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshaharyaraulakh&theme=react-dark&bg_color=0d1117&color=4AF626&line=4AF626&point=ffffff&hide_border=true" width="100%" />
-  </picture>
-</p>
+<div align="center">
+
+## `// GITHUB METRICS`
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?user=muhammadshaharyaraulakh&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-<p align="center">
-  ᴏɴᴇ ᴄᴏᴍᴍɪᴛ ᴀᴛ ᴀ ᴛɪᴍᴇ
-  <img src="https://komarev.com/ghpvc/?username=muhammadshaharyaraulakh&label=PROFILE+VIEWS&color=4AF626&style=flat-square" align="right" />
-</p>
+<div align="center">
+
+## `// LANGUAGE BREAKDOWN`
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshaharyaraulakh&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41&langs_count=12&card_width=900&cache_seconds=86400" alt="Top Languages" />
+
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadshaharyaraulakh&theme=chartreuse_dark" alt="Profile Summary" />
+
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadshaharyaraulakh&theme=chartreuse_dark" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadshaharyaraulakh&theme=chartreuse_dark" alt="Most Commit Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadshaharyaraulakh&theme=chartreuse_dark" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadshaharyaraulakh&theme=chartreuse_dark&utcOffset=5" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `// ACTIVITY GRAPH`
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshaharyaraulakh&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=003300&hide_border=true&custom_title=Muhammad%20Sheheryar%27s%20Code%20Activity" alt="Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `// ACHIEVEMENTS`
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=muhammadshaharyaraulakh&theme=matrix&no-frame=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `// CONTRIBUTION TRAIL 🐍`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadshaharyaraulakh/muhammadshaharyaraulakh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadshaharyaraulakh/muhammadshaharyaraulakh/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/muhammadshaharyaraulakh/muhammadshaharyaraulakh/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `// CONNECT WITH ME`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/muhammadsheheryar)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/muhammadshaharyaraulakh)
+[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:your@email.com)
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=22&fontColor=00FF41&fontAlignY=65&animation=twinkling" alt="Footer" />
+
+<br/>
+
+`// Built with php artisan serve, git push, and ☕`
+
+</div>
