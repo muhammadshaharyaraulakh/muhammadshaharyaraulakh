@@ -5,7 +5,7 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=D82B20&center=true&vCenter=true&width=720&height=80&lines=I+am+Muhammad+Sheheryar.;PHP+Laravel+Developer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=D82B20&center=true&vCenter=true&width=720&height=80&lines=I+am+Muhammad+Sheheryar.;I+am+a+Web+Developer!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -60,17 +60,11 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats-xi-murex.vercel.app/api?username=muhammadshaharyaraulakh&show_icons=true&hide_border=true&bg_color=000000&title_color=D82B20&icon_color=D82B20&text_color=D82B20&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
         <img width="100%" src="https://streak-stats.demolab.com?user=muhammadshaharyaraulakh&hide_border=true&background=000000&stroke=D82B20&ring=D82B20&fire=D82B20&currStreakNum=D82B20&sideNums=D82B20&currStreakLabel=D82B20&sideLabels=D82B20&dates=D82B20&header=D82B20" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 
-  <br/>
-
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=1&pause=3000&color=D82B20&center=true&vCenter=true&width=950&height=140&lines=I+am+actively+available+and+ready+to+contribute+to+open+source+and+collaborative+projects.;If+you+need+hands+on+help+with+backend+architecture%2C+Laravel+APIs%2C+or+database+design%2C;I+am+ready+to+pick+up+issues%2C+refactor+code%2C+optimize+queries%2C+and+submit+tested+PRs.;From+fixing+critical+bugs+to+building+production+ready+features+from+scratch%2C;Let%27s+collaborate+and+deliver+clean%2C+maintainable%2C+and+high+impact+software+together." alt="Open Source Collaboration" />
 
   <br/>
 
