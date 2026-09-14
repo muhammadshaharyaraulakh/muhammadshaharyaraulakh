@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" src="./banner.png" alt="First solve the problem. Then, write the code." />
+  <img width="100%" src="./banner.webp" alt="First solve the problem. Then, write the code." />
 
   <br/><br/>
 
